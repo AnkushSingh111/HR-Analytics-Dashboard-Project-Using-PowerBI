@@ -12,7 +12,7 @@ Job role
 Years of service
 High-Risk Roles – see which positions have the most employee turnover.
 
-Tools Used
+Tools Used - 
 Power BI Desktop – for building the dashboard
 Excel – for the sample HR dataset
 DAX – for custom calculations and KPIs

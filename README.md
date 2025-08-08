@@ -22,6 +22,8 @@ Most attrition is in the 26–35 age group.
 Life Sciences graduates form the biggest group leaving.
 Employees earning below 5K are leaving at the highest rate.
 Laboratory Technicians and Sales Executives have the most turnover.
+
+
 ![Hr Analytics Dashboard ](https://github.com/user-attachments/assets/1bd646c9-fdea-4d35-864a-8ccab2331035)
 
 
